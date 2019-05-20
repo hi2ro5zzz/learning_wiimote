@@ -1,0 +1,2 @@
+# learning_wiimote
+wii motion plusのついたwiiリモコンでrosを通してturtlesimを動かすためのコード
